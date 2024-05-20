@@ -1,0 +1,18 @@
+package com.aluracursos.conversordemonedas.Modelos;
+
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class GeneradorDeArchivos {
+/*
+    public void guardarJson(Monedas moneda) throws IOException{
+        Gson gson=new GsonBuilder().setPrettyPrinting().create();
+        FileWriter escritura=new FileWriter(moneda.+".json");
+        escritura.write(gson.toJson(moneda));
+        escritura.close();
+    }
+*/
+}
